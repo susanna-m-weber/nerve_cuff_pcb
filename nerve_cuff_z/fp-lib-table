@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nerve_cuff_pad")(type "KiCad")(uri "${KIPRJMOD}/nerve_cuff_pad.pretty")(options "")(descr ""))
+)

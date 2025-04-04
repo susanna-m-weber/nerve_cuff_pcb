@@ -19,7 +19,7 @@
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 2e07bf16-d8b1-464f-9cf0-f78db69d085e))
   (fp_line (start 0.3 0.3) (end 0.3 -0.3)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp f5a86f0c-eceb-47d7-99a7-ee705a43b51b))
-  (pad "1" thru_hole roundrect (at 0 0) (size 0.3 0.3) (drill 0.2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.15625) (tstamp 729df98c-22b3-44d3-9a02-2bdaee5e236c))
+  (pad "1" thru_hole roundrect (at 0 0) (size 0.4 0.4) (drill 0.15) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.15625) (tstamp 729df98c-22b3-44d3-9a02-2bdaee5e236c))
   (model "${KICAD6_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

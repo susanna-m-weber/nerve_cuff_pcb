@@ -1,4 +1,4 @@
-22641602715161546
+22639858935480973
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93036,13 +93036,6 @@ Varistor VF
 0
 2
 2
-nerve_cuff_pads
-small_pad_nerve_cuff
-Wire Pad, Square, SMD Pad,  1mm x 2mm,
-MesurementPoint Square SMDPad 1mmx2mm 
-0
-1
-1
 pad_nerve_cuff
 pad_small_nerve_cuff
 
